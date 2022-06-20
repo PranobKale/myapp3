@@ -20,7 +20,7 @@ isOdd(10)
 isOdd(11)
 
 function isSub(p1, p2) {
-  console.log(`${p1} + ${p2} = ${p1 + p2}`)
+  console.log(`${p1} - ${p2} = ${p1 - p2}`)
 }
 
 isSub(13, 12)
